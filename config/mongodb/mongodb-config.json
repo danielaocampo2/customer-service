@@ -1,0 +1,8 @@
+{
+    "mongodb": {
+        "server": "127.0.0.1:27017",
+        "database": "customer_db_dev",
+        "user": null,
+        "password": null
+    }
+}
